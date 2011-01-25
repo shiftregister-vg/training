@@ -1,3 +1,6 @@
+<!---
+	REQUIRES COLDFUSION 9+
+--->
 <cffunction name="toBoolean" access="public" returnType="boolean" output="false">
 	<cfargument name="value" type="any" required="true" />
 	
